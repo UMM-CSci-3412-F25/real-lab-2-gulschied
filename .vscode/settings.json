@@ -8,5 +8,9 @@
         "pthread",
         "pthreads",
         "REAMDE"
-    ]
+    ],
+    "files.associations": {
+        "palindrome.h": "c",
+        "disemvowel.h": "c"
+    }
 }
